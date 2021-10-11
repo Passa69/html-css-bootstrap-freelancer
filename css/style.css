@@ -1,5 +1,41 @@
 /* header */
 .menu {
-    max-height: 20vh;
-    background-color: #2c3e50;
+    height: 80vh;
+    background-color: #5cc7cb;
+}
+
+/* main */
+#elemt1 {
+    background-color: #ba4b63;
+    height: 500px;
+}
+
+#elemt2 {
+    background-color: #1ea4b6;
+    height: 500px;
+}
+
+#elemt3 {
+    background-color: #140f0f;
+    height: 500px;
+}
+
+#elemt4 {
+    background-color: #1c83c1;
+    height: 500px;
+}
+
+#elemt5 {
+    background-color: #0e38b5;
+    height: 500px;
+}
+
+#elemt6 {
+    background-color: #ccb2a3;
+    height: 500px;
+}
+
+.down {
+    background-color: #1abc9c;
+    height: 600px;
 }
