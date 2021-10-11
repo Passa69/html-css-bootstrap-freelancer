@@ -5,37 +5,57 @@
 }
 
 /* main */
+.title {
+    background-color: red;
+    height: 100px;
+}
+
 #elemt1 {
     background-color: #ba4b63;
-    height: 500px;
+    height: 300px;
 }
 
 #elemt2 {
     background-color: #1ea4b6;
-    height: 500px;
+    height: 300px;
 }
 
 #elemt3 {
     background-color: #140f0f;
-    height: 500px;
+    height: 300px;
 }
 
 #elemt4 {
     background-color: #1c83c1;
-    height: 500px;
+    height: 300px;
 }
 
 #elemt5 {
     background-color: #0e38b5;
-    height: 500px;
+    height: 300px;
 }
 
 #elemt6 {
     background-color: #ccb2a3;
-    height: 500px;
+    height: 300px;
 }
 
 .down {
     background-color: #1abc9c;
-    height: 600px;
+    height: 400px;
+}
+
+.contact {
+    background-color: red;
+    height: 400px;
+}
+
+.upfoot {
+    background-color: #3a546d;
+    height: 300px;
+}
+
+.underfoot {
+    background-color: #2c3e50;
+    height: 100px;
 }
