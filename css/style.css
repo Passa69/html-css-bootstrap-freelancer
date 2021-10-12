@@ -4,6 +4,33 @@
     background-color: #5cc7cb;
 }
 
+#banner {
+    max-width: 300px;
+    margin-top: 50px;
+}
+
+.color {
+    color: white;
+    text-align: center;
+}
+
+.fas {
+    font-size: 25px;
+    margin-left: 45%;
+    margin-bottom: 10px;
+}
+
+.divider {
+    height: 5px;
+    max-width: 100px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.roles {
+    margin-left: 15%;
+}
+
 /* main */
 .title {
     background-color: red;
