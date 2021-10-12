@@ -14,7 +14,7 @@
     text-align: center;
 }
 
-.fas {
+.fa-star {
     font-size: 25px;
     margin-left: 45%;
     margin-bottom: 10px;
@@ -44,7 +44,6 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-top: 20px;
     min-height: 300px;
 }
 
@@ -70,12 +69,19 @@
 
 #element6 {
     background-image: url(../img/submarine.png);
-    margin-bottom: 40px;
 }
 
 .down {
     background-color: #1abc9c;
-    height: 400px;
+}
+
+.text {
+    font-size: 35px;
+}
+
+#butt_down {
+    margin-left: 38%;
+    margin-bottom: 20px;
 }
 
 .contact {
