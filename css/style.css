@@ -84,11 +84,19 @@
     margin-bottom: 20px;
 }
 
-.contact {
-    background-color: red;
-    height: 400px;
+.contact>h1 {
+    text-align: center;
 }
 
+.info {
+    margin: 10px 0 10px 25%;
+}
+
+.butt {
+    margin: 100px 0 10px 25%;
+}
+
+/* footer */
 .upfoot {
     background-color: #3a546d;
     height: 300px;
