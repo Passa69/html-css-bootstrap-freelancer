@@ -42,6 +42,10 @@
     min-height: 300px;
 }
 
+.element {
+    margin: 20px 0 40px 0;
+}
+
 #element1 {
     background-image: url(../img/cabin.png);
 }
