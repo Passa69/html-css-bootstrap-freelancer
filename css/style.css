@@ -49,6 +49,10 @@
     font-size: 35px;
 }
 
+.contact {
+    padding: 50px 100px;
+}
+
 .contact>h1 {
     text-align: center;
 }
