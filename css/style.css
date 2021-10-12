@@ -26,6 +26,7 @@
     background-color: white;
 }
 
+
 /* main */
 .title>h1 {
     text-align: center;
@@ -35,53 +36,17 @@
     background-color: black;
 }
 
-.contenuto {
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 300px;
-}
-
-.element {
-    margin: 20px 0 40px 0;
-}
-
-#element1 {
-    background-image: url(../img/cabin.png);
-}
-
-#element2 {
-    background-image: url(../img/cake.png);
-}
-
-#element3 {
-    background-image: url(../img/circus.png);
-}
-
-#element4 {
-    background-image: url(../img/game.png);
-}
-
-#element5 {
-    background-image: url(../img/safe.png);
-}
-
-#element6 {
-    background-image: url(../img/submarine.png);
+.element img {
+    padding: 10px;
 }
 
 .down {
     background-color: #1abc9c;
+    padding: 50px;
 }
 
 .text {
     font-size: 35px;
-}
-
-
-#butt_down {
-    margin-left: 38%;
-    margin-bottom: 20px;
 }
 
 .contact>h1 {
