@@ -32,39 +32,45 @@
 }
 
 /* main */
-.title {
-    background-color: red;
-    height: 100px;
+.title>h1 {
+    text-align: center;
 }
 
-#elemt1 {
-    background-color: #ba4b63;
-    height: 300px;
+.portf {
+    background-color: black;
 }
 
-#elemt2 {
-    background-color: #1ea4b6;
-    height: 300px;
+.contenuto {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    min-height: 300px;
 }
 
-#elemt3 {
-    background-color: #140f0f;
-    height: 300px;
+#element1 {
+    background-image: url(../img/cabin.png);
 }
 
-#elemt4 {
-    background-color: #1c83c1;
-    height: 300px;
+#element2 {
+    background-image: url(../img/cake.png);
 }
 
-#elemt5 {
-    background-color: #0e38b5;
-    height: 300px;
+#element3 {
+    background-image: url(../img/circus.png);
 }
 
-#elemt6 {
-    background-color: #ccb2a3;
-    height: 300px;
+#element4 {
+    background-image: url(../img/game.png);
+}
+
+#element5 {
+    background-image: url(../img/safe.png);
+}
+
+#element6 {
+    background-image: url(../img/submarine.png);
+    margin-bottom: 40px;
 }
 
 .down {
